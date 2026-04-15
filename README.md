@@ -9,17 +9,34 @@ Program Manager – Engineering / Data Science
 ---
 
 ## 🚀 Overview  
-Led large-scale wireless performance and network planning initiatives by combining data engineering, spatial analytics, and program management. Built data-driven frameworks to optimize network coverage, infrastructure planning, and performance monitoring using GIS tools and modern data platforms.
+Led large-scale wireless performance and infrastructure initiatives by combining data engineering, spatial analytics, and program management. Delivered scalable data platforms, predictive analytics, and visualization solutions to optimize network performance and reduce operational costs.
 
 ---
 
 ## 🔧 Key Responsibilities  
 
-### 🔹 Data Engineering & Integration
-- Designed and managed **data pipelines and integrations** across multiple systems  
-- Worked with **PostgreSQL, Oracle, and Data Lake environments** for large-scale data storage  
-- Enabled seamless data access using **ODBC and SQL-based tools**  
-- Supported **multi-source data integration** for analytics and planning  
+### 🔹 Data Engineering & Platform Architecture
+- Led **data engineering initiatives for $240M wireless infrastructure programs**  
+- Architected a **centralized PostgreSQL-based reporting platform** integrating multi-source operational data  
+- Designed and implemented **cloud-based data workflows using GCP (BigQuery, Dataflow)**  
+- Built and maintained **robust data pipelines (batch and streaming)** for analytics and reporting  
+
+---
+
+### 🔹 Automation & Data Pipelines
+- Developed **Python-based automated pipelines** for KPI reporting (daily, weekly, monthly)  
+- Reduced manual reporting effort through **process automation and workflow optimization**  
+- Ensured **data reliability and consistency** across reporting systems  
+
+---
+
+### 🔹 Data Science & Predictive Analytics
+- Built **predictive models and statistical analyses** to support performance forecasting  
+- Applied techniques from:
+  - Data Mining  
+  - Statistics  
+  - Machine Learning  
+- Delivered analytics strategies targeting **~2% cost optimization**  
 
 ---
 
@@ -29,7 +46,7 @@ Led large-scale wireless performance and network planning initiatives by combini
   - Fiber paths (lines)  
   - Service areas (polygons)  
 - Performed advanced spatial operations:
-  - Buffering (e.g., coverage radius analysis)  
+  - Buffering (coverage radius analysis)  
   - Intersection analysis (overlapping coverage detection)  
 - Optimized performance using **spatial indexing for large datasets**  
 - Integrated PostGIS with **ArcGIS and QGIS** for multi-user planning workflows  
@@ -46,18 +63,17 @@ Led large-scale wireless performance and network planning initiatives by combini
 
 ---
 
+### 🔹 Visualization & BI Reporting
+- Built **executive dashboards in Tableau** to track program health and performance  
+- Presented insights using **advanced data visualization techniques**  
+- Enabled stakeholders to make **data-driven decisions**  
+
+---
+
 ### 🔹 Visualization & Field Planning (Google Earth)
 - Visualized network infrastructure on **3D terrain models**  
 - Performed **Line-of-Sight (LoS) analysis** for wireless connectivity  
 - Created and shared **KML/KMZ-based planning models** for field teams  
-- Supported **survey planning and validation workflows**  
-
----
-
-### 🔹 BI & Reporting
-- Developed **Tableau dashboards and reports** for performance monitoring  
-- Presented insights using **data visualization techniques**  
-- Enabled stakeholders to make **data-driven decisions**  
 
 ---
 
@@ -66,18 +82,27 @@ Led large-scale wireless performance and network planning initiatives by combini
   - Engineering  
   - Data Science  
   - Business units  
-- Coordinated project execution and delivery of **network performance initiatives**  
-- Bridged **business requirements and technical solutions**  
+- Coordinated execution of **network performance and infrastructure initiatives**  
+- Bridged **business requirements with technical solutions**  
+
+---
+
+## 📈 Impact
+- Reduced **manual reporting effort by 40%** through automation  
+- Improved **data reliability and consistency** across systems  
+- Delivered analytics strategies contributing to **cost optimization (~2%)**  
 
 ---
 
 ## 🧠 Skills & Technologies
 - PostgreSQL / PostGIS  
-- Oracle SQL Developer  
-- Python, C#, JavaScript, HTML  
-- Tableau (BI & Visualization)  
+- Google Cloud Platform (BigQuery, Dataflow)  
+- Python  
+- Tableau  
 - ArcGIS / QGIS  
 - Google Earth (KML/KMZ)  
+- Oracle SQL Developer  
+- C#, JavaScript, HTML  
 - Data Lakes & Data Integration  
 - Spatial Analytics & Network Planning  
 
