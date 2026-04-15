@@ -1,80 +1,85 @@
-# 📊 Data Engineering Experience – System Performance (2018–2019) & (2024-2025)
+# 📊 Data Engineering & Program Management – System Performance Engineering
 
 ## 🏢 Organization  
-Verizon (Wireless Domain)  
+Verizon (Wireless Management Domain)  
 
 ## 💼 Role  
-System Performance Engineer  
+Program Manager – Engineering / Data Science  
 
 ---
 
 ## 🚀 Overview  
-Worked on large-scale wireless data systems, focusing on performance analytics, predictive modeling, and data pipeline development. Leveraged modern data platforms to analyze high-volume datasets, build machine learning frameworks, and deliver actionable insights through dashboards and reporting solutions.
+Led large-scale wireless performance and network planning initiatives by combining data engineering, spatial analytics, and program management. Built data-driven frameworks to optimize network coverage, infrastructure planning, and performance monitoring using GIS tools and modern data platforms.
 
 ---
 
 ## 🔧 Key Responsibilities  
 
-### 🔹 Data Analysis & Predictive Insights
-- Analyzed large datasets to identify **trends, patterns, and performance insights**  
-- Developed **predictive models** to forecast system performance and customer behavior  
-- Applied techniques from:
-  - Data Mining  
-  - Statistics  
-  - Machine Learning  
-  - Artificial Intelligence  
+### 🔹 Data Engineering & Integration
+- Designed and managed **data pipelines and integrations** across multiple systems  
+- Worked with **PostgreSQL, Oracle, and Data Lake environments** for large-scale data storage  
+- Enabled seamless data access using **ODBC and SQL-based tools**  
+- Supported **multi-source data integration** for analytics and planning  
 
 ---
 
-### 🔹 Data Engineering & Pipelines
-- Built and maintained **robust data pipelines** (batch and streaming)  
-- Performed **data modeling using SQL and Python**  
-- Designed scalable workflows for **data ingestion, transformation, and processing**  
+### 🔹 Spatial Data Engineering (PostGIS)
+- Managed **spatial datasets** for wireless infrastructure:
+  - Tower locations (points)  
+  - Fiber paths (lines)  
+  - Service areas (polygons)  
+- Performed advanced spatial operations:
+  - Buffering (e.g., coverage radius analysis)  
+  - Intersection analysis (overlapping coverage detection)  
+- Optimized performance using **spatial indexing for large datasets**  
+- Integrated PostGIS with **ArcGIS and QGIS** for multi-user planning workflows  
 
 ---
 
-### 🔹 Big Data & Cloud Platforms
-- Worked with platforms such as:
-  - Snowflake (data warehousing and micro-partitioning optimization)  
-  - Databricks (Spark-based data processing)  
-- Tuned **Spark jobs** for performance and handled **large-scale workloads**  
-- Managed **SQL warehouse configurations** for optimal performance  
+### 🔹 GIS-Based Network Planning (ArcGIS)
+- Designed **wireless site planning solutions** using ArcGIS tools  
+- Conducted:
+  - Coverage mapping and signal analysis  
+  - Terrain and obstruction analysis using 3D data  
+- Managed **telecom network topology and circuit modeling**  
+- Built geospatial models for **fiber, tower, and backhaul planning**  
 
 ---
 
-### 🔹 BI, Reporting & Visualization
-- Developed **Tableau dashboards and BI reports** for business users  
+### 🔹 Visualization & Field Planning (Google Earth)
+- Visualized network infrastructure on **3D terrain models**  
+- Performed **Line-of-Sight (LoS) analysis** for wireless connectivity  
+- Created and shared **KML/KMZ-based planning models** for field teams  
+- Supported **survey planning and validation workflows**  
+
+---
+
+### 🔹 BI & Reporting
+- Developed **Tableau dashboards and reports** for performance monitoring  
 - Presented insights using **data visualization techniques**  
-- Supported **decision-making through interactive reports and analytics**  
+- Enabled stakeholders to make **data-driven decisions**  
 
 ---
 
-### 🔹 Requirements & Collaboration
-- Translated **business requirements into ETL workflows and reporting solutions**  
-- Collaborated with:
-  - Developers  
-  - BI teams  
-  - Business stakeholders  
-- Participated in **feedback sessions to improve system performance and usability**  
-
----
-
-### 🔹 Experimentation & Data Strategy
-- Designed **experimental frameworks** to measure customer satisfaction  
-- Built data foundations for **advanced analytics and machine learning use cases**  
-- Ensured data readiness for **scalable and reliable analytics**  
+### 🔹 Program Management & Leadership
+- Led cross-functional teams across:
+  - Engineering  
+  - Data Science  
+  - Business units  
+- Coordinated project execution and delivery of **network performance initiatives**  
+- Bridged **business requirements and technical solutions**  
 
 ---
 
 ## 🧠 Skills & Technologies
-- PostgreSQL  
-- Python  
-- C#  
-- Tableau  
-- Snowflake  
-- Databricks (Apache Spark)  
-- Data Modeling  
-- Machine Learning & Analytics  
+- PostgreSQL / PostGIS  
+- Oracle SQL Developer  
+- Python, C#, JavaScript, HTML  
+- Tableau (BI & Visualization)  
+- ArcGIS / QGIS  
+- Google Earth (KML/KMZ)  
+- Data Lakes & Data Integration  
+- Spatial Analytics & Network Planning  
 
 ---
 
